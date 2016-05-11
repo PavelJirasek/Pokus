@@ -17,7 +17,7 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("Ahoj světe!!");
         System.out.println("jak se máš");
-        
+        System.out.println("třetí");
     }
     
 }
